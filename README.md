@@ -20,8 +20,8 @@ How to Set It Up 🔧
 **Step-by-Step Setup**  
 1. **Clone the Repo**  
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/laffingDragons/RAG-Llama4-Streamlit.git
+cd RAG-Llama4-Streamlit
 ```  
 
 2. **Install Dependencies**  

@@ -1,0 +1,6 @@
+streamlit
+llama-index
+llama-index-llms-cerebras
+llama-index-embeddings-fastembed
+python-dotenv
+ipython

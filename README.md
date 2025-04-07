@@ -1,5 +1,5 @@
 
-README - RAG with Llama 4 and Cerebras 🚀🤖
+## RAG with Llama 4 and Cerebras 🚀🤖
 
 Welcome to the Retrieval-Augmented Generation (RAG) app powered by Llama 4, Cerebras, and LlamaIndex! This Streamlit app lets you upload a PDF, index it, and chat with an AI that answers questions based on your document. Let’s get started! 📄💬
 

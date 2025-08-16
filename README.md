@@ -3,6 +3,9 @@
 
 Welcome to the Retrieval-Augmented Generation (RAG) app powered by Llama 4, Cerebras, and LlamaIndex! This Streamlit app lets you upload a PDF, index it, and chat with an AI that answers questions based on your document. Let’s get started! 📄💬
 
+<img width="1510" height="775" alt="image-1" src="https://github.com/user-attachments/assets/46a0cbdb-751d-4fae-a4fa-263b20ab909a" />
+
+
 What Does This App Do?  
 - **Upload PDFs**: Drop your .pdf files and let the app index them. 📤  
 - **Chat with AI**: Ask questions, and get crisp answers based on your document. 🤖💡  
